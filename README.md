@@ -52,3 +52,9 @@ npm run dev
 - Country data: [mledoze/countries](https://github.com/mledoze/countries) (ODbL) · population: World Bank (2023)
 - Flags: [flagcdn.com](https://flagcdn.com)
 - Regenerate data: `node scripts/build-countries.mjs <countries.json> <population.json>`
+
+
+
+##THE LIVE LINK
+
+https://geo-quiz-kappa.vercel.app/
